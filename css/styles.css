@@ -13,6 +13,9 @@ p {
 
 em {
   color: maroon;
+  font-family: "Montserrat";
+  font-size: 2rem;
+  font-weight: 900;
 }
 
 /* headings */
